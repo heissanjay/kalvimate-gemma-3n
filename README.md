@@ -1,0 +1,1 @@
+## KalviMate - an offline-capable, fine-tuned AI tutor built using Gemma 3n and Unsloth
