@@ -1,0 +1,12 @@
+Create student–assistant dialogues where the student gives a *partial or incorrect* intuition about a concept, and the assistant gently corrects it, while encouraging learning.
+
+Topic Content:
+{{topic_text}}
+
+Format:
+[
+  {"role": "user", "content": "I think X is because of Y. Is that right?"},
+  {"role": "assistant", "content": "Almost! That’s a smart observation. But actually, X is due to Z because..."}
+]
+
+Generate 2-3 such intuitive question-feedback dialogues.

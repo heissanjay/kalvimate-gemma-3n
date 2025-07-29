@@ -1,0 +1,12 @@
+Generate detailed Q&A pairs that explain concepts from this topic in a way that feels like a tutor helping a student deeply understand the concept.
+
+Topic Content:
+{{topic_text}}
+
+Format:
+[
+  {"role": "user", "content": "Explain X"},
+  {"role": "assistant", "content": "X is... [definition, example, intuitive breakdown]"}
+]
+
+Give 3-5 diverse Q&A samples.

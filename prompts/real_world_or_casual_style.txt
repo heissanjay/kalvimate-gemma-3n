@@ -1,0 +1,10 @@
+Using the topic content below, create 3 assistant responses that explain difficult concepts using simple real-world analogies. The user should ask in a way like “Explain this like I’m a slow learner.”
+
+Topic Content:
+{{topic_text}}
+
+Format:
+[
+  {"role": "user", "content": "Explain X like I’m a slow learner."},
+  {"role": "assistant", "content": "Okay! Think of it like this... [analogy + gentle explanation]"}
+]

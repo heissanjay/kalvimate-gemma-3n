@@ -1,0 +1,371 @@
+{
+    "chapter_number": 2,
+    "chapter_title": "UNIT - 2 OPTICS - LearningObjectives",
+    "TOPIC WISE SECTIONS": [
+        {
+            "topic_title": "INTRODUCTION",
+            "content": [
+                "Light is a form of energy which travels in the form of waves. The path of light is called ray of light and group of these rays are called as beam of light. Any object which gives out light are termed as source of light. Some of the sources emit their own light and they are called as luminous objects. All the stars, including the Sun, are examples for luminous objects. We all know that we are able to see objects with the help of our eyes. Butwe cannot see any object in a dark room. Can you explain why? If your answer is ‘we need light to see objects’, the next question is ‘if you make the light from a torch to fall on your eyes, will you be able to see the objects? ’ Definitely, ‘NO’. We can see the objects only when the light is made to fall on the objects and the light reflected from the objects is viewed by our eyes. You would have studied about the reflection and refraction of light elaborately in your previous classes. In this chapter, we shall discuss about the scattering of light, images formed by convex and concave lenses, human eye and optical instruments such as telescopes and microscopes."
+            ]
+        },
+        {
+            "topic_title": "2. 1 PROPERTIES OF LIGHT",
+            "content": [
+                "Let us recall the properties of light and the important aspects on refraction of light.",
+                "1. Light is a form of energy.",
+                "2. Light always travels along a straight line.",
+                "3. Light does not need any medium for its propagation. It can even travel through vacuum.",
+                "4. The speed of light in vacuum or air is, c = 3 × 10 ^8metre second power –1.",
+                "5. Since, light is in the form of waves, it is characterized by a wavelength (λ) and a frequency (ν), which are related by the following equation: c = nu into lambda(c - velocity of light).",
+                "6. Different coloured light has different wavelength and frequency.",
+                "7. Among the visible light, violet light has the lowest wavelength and red light has the highest wavelength.",
+                "8. When light is incident on the interface between two media, it is partly reflected and partly refracted."
+            ],
+            "topic_number": "2.1"
+        },
+        {
+            "topic_title": "2. 2 REFRACTION OF LIGHT",
+            "content": [
+                "When a ray of light travels from one transparent medium into another obliquely, the path of the light undergoes deviation. This deviation of ray of light is called refraction. Refraction takes place due to the difference in the velocity of light in different media. The velocity of light is more in a rarer medium and less in a denser medium. Refraction of light obeys two laws of refraction.",
+                "2. 2. 1 First law of refraction:",
+                "The incident ray, the refracted ray of light and the normal to the refracting surface all lie in the same plane.",
+                "2. 2. 2 Second law of refraction:",
+                "The ratio of the sine of the angle of incidence and sine of the angle of refraction is equal to the ratio of refractive indices of the two media. This law is also known as Snell’s law.",
+                "sin i / sin r equal to mew2 / mew 1 2. 1",
+                "Refractive index gives us an idea of how fast or how slow light travels in a medium. The ratio of speed of light in vacuum to the speed of light in a medium is defined as refractive index mew of that medium.",
+                "Mew = c by v",
+                "The speed of light in a medium is low if the refractive index of the medium is high and vice versa.",
+                "When light travels from a denser medium into a rarer medium, the refracted ray is bent away from the normal drawn to the interface.",
+                "When light travels from a rarer medium into a denser medium, the refracted ray is bent towards the normal drawn to the interface."
+            ],
+            "topic_number": "2.2"
+        },
+        {
+            "topic_title": "2. 3 REFRACTION OF A COMPOSITE LIGHT - DISPERSION OF LIGHT",
+            "content": [
+                "We know that Sun is the fundamental and natural source of light. If a source of light produces a light of single colour, it is known as a monochromatic source. On the other hand, a composite source of light produces a white light which contains light of different colours. Sun light is a composite light which consists of light of various colours or wavelengths. Another example for a composite source is a mercury vapour lamp. What do you observe when a white light is refracted through a glass prism?",
+                "When a beam of white light or composite light is refracted through any transparent media such as glass or water, it is split into its component colours. This phenomenon is called as ‘dispersion of light’.",
+                "The band of colours is termed as spectrum. This spectrum consists of following colours: Violet, Indigo, Blue, Green, Yellow, Orange, and Red. These colours are represented by the acronym “VIBGYOR”. Why do we get the spectrum when white light is refracted by a transparent medium? This is because, different coloured lights are bent through different angles. That is the angle of refraction is different for different colours.",
+                "Angle of refraction is the smallest for red and the highest for violet. From Snell’s law, we know that the angle of refraction is determined in terms of the refractive index of the medium. Hence, the refractive index of the medium is different for different coloured lights. This indicates that the refractive index of a medium is dependent on the wavelength of the light."
+            ],
+            "topic_number": "2.3"
+        },
+        {
+            "topic_title": "2. 4 SCATTERING OF LIGHT",
+            "content": [
+                "When sunlight enters the Earth’s atmosphere, the atoms and molecules of different gases present in the atmosphere refract the light in all possible directions. This is called as ‘Scattering of light’. In this phenomenon, the beam of light is redirected in all directions when it interacts with a particle of medium. The interacting particle of the medium is called as ‘scatterer’.",
+                "Figure 2. 1 Scattering of light"
+            ],
+            "topic_number": "2.4"
+        },
+        {
+            "topic_title": "2. 4. 1 Types of scattering",
+            "content": [
+                "When a beam of light, interacts with a constituent particle of the medium, it undergoes many kinds of scattering. Based on initial and final energy of the light beam, scattering can be classified as,",
+                "1) Elastic scattering 2) Inelastic scattering",
+                "1) Elastic scattering",
+                "If the energy of the incident beam of light and the scattered beam of light are same, then it is called as ‘elastic scattering’.",
+                "2) Inelasticscattering",
+                "If the energy of the incident beam of light and the scattered beam of light are not same, then it is called as ‘inelastic scattering’. The nature and size of the scatterer results in different types of scattering. They are",
+                "Rayleigh scattering",
+                "Mie scattering",
+                "Tyndall scattering",
+                "Raman scattering",
+                "Rayleigh scattering",
+                "The scattering of sunlight by the atoms or molecules of the gases in the earth’s atmosphere is known as Rayleigh scattering.",
+                "Rayleigh’s scattering law",
+                "Rayleigh’s scattering law states that, “The amount of scattering of light is inversely proportional to the fourth ^of its wavelength”. Amount of scattering ‘S’proportional 1 by lambta ^4 According to this law, the shorter wavelength colours are scattered much more than the longer wavelength colours.",
+                "When sunlight passes through the atmosphere, the blue colour (shorter wavelength) is scattered to a greater extent than the red colour (longer wavelength). This scattering causes the sky to appear in blue colour.",
+                "At sunrise and sunset, the light rays from the Sun have to travel a larger distance in the atmosphere than at noon. Hence, most of the blue lights are scattered away and only the red light which gets least scattered reaches us. Therefore, the colour of the Sun is red at sunrise and sunset.",
+                "Mie scattering",
+                "Mie scattering takes place when the diameter of the scatterer is similar to or larger than the wavelength of the incident light. It is also an elastic scattering. The amount of scattering is independent of wavelength.",
+                "Mie scattering is caused by pollen, dust, smoke, water droplets, and other particles in the lower portion of the atmosphere.",
+                "Mie scattering is responsible for the white appearance of the clouds. When white light falls on the water drop, all the colours are equally scattered which together form the white light.",
+                "Tyndall Scattering",
+                "When a beam of sunlight, enters into a dusty room through a window, then its path becomes visible to us. This is because, the tiny dust particles present in the air of the room scatter the beam of light. This is an example of Tyndall Scattering.",
+                "The scattering of light rays by the colloidal particles in the colloidal Solution is called Tyndall Scattering or Tyndall Effect.",
+                "Do you Know",
+                "Colloid is a microscopically small substance that is equally dispersed throughout another material. Example: Milk, Ice cream, muddy water, smoke",
+                "Raman scattering",
+                "When a parallel beam of monochromatic (single coloured) light passes through a gas or liquid or transparent solid, a part of light rays is scattered.",
+                "The scattered light contains some additional frequencies (or wavelengths) other than that of incident frequency (or wavelength). This is known as Raman scattering or Raman Effect.",
+                "Raman Scattering is defined as “The interaction of light ray with the particles of pure liquids or transparent solids, which leads to a change in wavelength or frequency. ”",
+                "The spectral lines having frequency equal to the incident ray frequency is called ‘Rayleigh line’ and the spectral lines which are having frequencies other than the incident ray frequency are called ‘Raman lines. The lines having frequencies lower than the incident frequency is called stokes lines and the lines having frequencies higher than the incident frequency are called Anti - stokes lines.",
+                "You will study more about Raman Effect in higher classes."
+            ],
+            "topic_number": "2.4.1"
+        },
+        {
+            "topic_title": "2. 5 LENSES",
+            "content": [
+                "A lens is an optically transparent medium bounded by two spherical refracting surfaces or one plane and one spherical surface.",
+                "Lens is basically classified into two types.",
+                "They are: (one) Convex Lens (two) Concave Lens",
+                "(one) Convex or bi - convex lens: It is a lens bounded by two spherical surfaces such that it is thicker at the centre than at the edges. A beam of light passing through it, is converged to a point. So, a convex lens is also called as converging lens.",
+                "(two) Concave or bi - concave Lens: It is a lens bounded by two spherical surfaces such that it is thinner at the centre than at the edges. A parallel beam of light passing through it, is diverged or spread out. So, a concave lens is also called as diverging lens."
+            ],
+            "topic_number": "2.5"
+        },
+        {
+            "topic_title": "2. 5. 1 Other types of Lenses",
+            "content": [
+                "Plano - convex lens: If one of the faces of a bi - convex lens is plane, it is known as a Plano convex lens.",
+                "Plano - concave lens: If one of the faces of a bi - concave lens is plane, it is known as a Plano concave lens.",
+                "All these lenses are shown in Figure 2. 2 given below:",
+                "Figure 2. 2 Types of lenses"
+            ],
+            "topic_number": "2.5.1"
+        },
+        {
+            "topic_title": "2. 6 IMAGES FORMED DUE TO REFRACTION THROUGH A CONVEX AND CONCAVE LENS",
+            "content": [
+                "When an object is placed in front of a lens, the light rays from the object fall on the lens. The position, size and nature of the image formed can be understood only if we know certain basic rules.",
+                "Rule - 1: When a ray of light strikes the convex or concave lens obliquely at its optical centre, it continues to follow its path without any deviation (Figure2. 3)",
+                "Figure 2. 3 Rays passing through the optical centre",
+                "Rule - 2: When rays parallel to the principal axis strikes a convex or concave lens, the refracted rays are converged to (convex lens) or appear to diverge from (concave lens) the principal focus (Figure2. 4).",
+                "Figure 2. 4 Rays passing parallel to the optic axis",
+                "Rule - 3: When a ray passing through (convex lens) or directed towards (concave lens) the principal focus strikes a convex or concave lens, the refracted ray will be parallel to the principal axis (Figure2. 5).",
+                "Figure 2. 5 Rays passing through or directed towards the principal focus",
+                "2. 7REFRACTION THROUGH A CONVEX LENS",
+                "2. 7REFRACTION THROUGH A CONVEX LENS",
+                "Let us discuss the formation of images by a convex lens when the object is placed at various positions.",
+                "Object at infinity",
+                "When an object is placed at infinity, a real image is formed at the principal focus. The size of the image is much smaller than that of the object (Figure2. 6).",
+                "Figure 2. 6 Object at infinity",
+                "Object placed beyond C(greater than 2F)",
+                "Figure 2. 7 Object placed beyond C( greater than 2F)",
+                "When an object is placed behind the centre of curvature (beyond C), a real and inverted image is formed between the centre of curvature and the principal focus. The size of the image is the smaller than that of the object (Figure2. 7).",
+                "Object placed at C",
+                "When an object is placed at the centre of curvature, a real and inverted image is formed at the other centre of curvature. The size of the image is the same as that of the object (Figure2. 8).",
+                "Figure. 2. 8 Object placed at C",
+                "Object placed between F and C",
+                "When an object is placed in between the centre of curvature and principal focus, a real and inverted image is formed behind the centre of curvature. The size of the image is bigger than that of the object (Figure2. 9).",
+                "Figure 2. 9 Object placed between F and C",
+                "Object placed at the principal focus F",
+                "Figure 2. 10 Object placed at the principal focus F",
+                "When an object is placed at the focus, a real image is formed at infinity. The size of the image is much larger than that of the object (Figure2. 10).",
+                "Object placed between the principal focus F and optical centre O",
+                "When an object is placed in between principal focus and optical centre, a virtual image is formed. The size of the image is larger than that of the object (Figure2. 11).",
+                "Figure 2. 11 Object placed between the principal focus F and optical centre O"
+            ],
+            "topic_number": "2.6"
+        },
+        {
+            "topic_title": "2. 8 APPLICATIONS OF CONVEX LENSES",
+            "content": [
+                "1. Convex lenses are used as camera lenses",
+                "2. They are used as magnifying lenses",
+                "3. They are used in making microscope, telescope and slide projectors",
+                "4. They are used to correct the defect of vision called hypermetropia"
+            ],
+            "topic_number": "2.8"
+        },
+        {
+            "topic_title": "2. 9 REFRACTION THROUGH A CONCAVE LENS",
+            "content": [
+                "Let us discuss the formation of images by a concave lens when the object is placed at two possible positions.",
+                "Object at Infinity",
+                "When an object is placed at infinity, a virtual image is formed at the focus. The size of the image is much smaller than that of the object (Figure2. 12).",
+                "Figure 2. 12 Concave Lens - Object at infinity",
+                "Object anywhere on the principal axis at a finite distance",
+                "When an object is placed at a finite distance from the lens, a virtual image is formed between optical centre and focus of the concave lens. The size of the image is smaller than that of the object (Figure2. 13).",
+                "Figure 2. 13 Concave Lens - Object at a finite distance",
+                "But, as the distance between the object and the lens is decreased, the distance between the image and the lens also keeps decreasing. Further, the size of the image formed increases as the distance between the object and the lens is decreased. This is shown in (figure2. 14).",
+                "Figure 2. 14 Concave lens - Variation in position and size of image with object distance"
+            ],
+            "topic_number": "2.9"
+        },
+        {
+            "topic_title": "2. 10 APPLICATIONS OF CONCAVE LENSES",
+            "content": [
+                "1. Concave lenses are used as eye lens of ‘GalileanTelescope’",
+                "2. They are used in wide angle spy hole in doors.",
+                "3. They are used to correct the defect of vision called‘myopia’"
+            ],
+            "topic_number": "2.10"
+        },
+        {
+            "topic_title": "2. 11 LENS FORMULA",
+            "content": [
+                "Like spherical mirrors, we have lens formula for spherical lenses. The lens formula gives the relationship among distance of the object (u), distance of the image (v) and the focal length (f) of the lens. It is expressed as 1 one by f equal to 1 by v - 1 by u equation 2. 2",
+                "It is applicable to both convex and concave lenses. We need to give an at most care while solving numerical problems related to lenses in taking proper signs of different quantities."
+            ],
+            "topic_number": "2.11"
+        },
+        {
+            "topic_title": "2. 12 SIGN CONVENTION",
+            "content": [
+                "Cartesian sign conventions are used for measuring the various distances in the ray diagrams of spherical lenses. According to cartesian sign convention,",
+                "1. The object is always placed on the left side of the lens.",
+                "2. All the distances are measured from the optical centre of the lens.",
+                "3. The distances measured in the same direction as that of incident light are taken as positive.",
+                "4. The distances measured against the direction of incident light are taken as negative.",
+                "5. The distances measured upward and perpendicular to the principal axis is taken as positive.",
+                "6. The distances measured downward and perpendicular to the principal axis is taken as negative."
+            ],
+            "topic_number": "2.12"
+        },
+        {
+            "topic_title": "2. 13 MAGNIFICATION OF A LENS",
+            "content": [
+                "Like spherical mirrors, we have magnification for spherical lenses. Spherical lenses produce magnification and it is defined as the ratio of the height of the image to the height of an object. Magnification is denoted by the letter ‘m’. If height of the object is h and height of the image is h ́, the magnification produced by lens is m = height of the image / height of the object = h — by h equation 2. 3",
+                "Also, it is related to the distance of the object (u) and the distance of the image (v) as follows:",
+                "M = distance of the image / distance of the object = v by u equation 2. 4",
+                "If the magnification is greater than 1, then we get an enlarged image. On the other hand, if the magnification is less than 1, then we get a diminished image."
+            ],
+            "topic_number": "2.13"
+        },
+        {
+            "topic_title": "2. 14 LENS MAKER’S FORMULA",
+            "content": [
+                "All lenses are made up of transparent materials. Any optically transparent material will have a refractive index. The lens formula relates the focal length of a lens with the distance of object and image. For a maker of any lens, knowledge of radii of curvature of the lens is required. This clearly indicates the need for an equation relating the radii of curvature of the lens, the refractive index of the given material of thelens and the required focal length of the lens. The lens maker’s formula is one such equation. It is given asone by f equal to mew - one into one by R1 - one by R2 equation 2. 5",
+                "where mew is the refractive index of the material of the lens; R1 and R2 are the radii of curvature of the two faces of the lens; f is the focal length of the lens."
+            ],
+            "topic_number": "2.14"
+        },
+        {
+            "topic_title": "2. 15 ^OF A LENS",
+            "content": [
+                "When a ray of light falls on a lens, the ability to converge or diverge these light rays depends on the focal length of the lens. This ability of a lens to converge (convex lens) or diverge (concave lens) is called as its power. Hence, the ^of a lens can be defined as the degree of convergence or divergence of light rays. ^of a lens is numerically defined as the reciprocal of its focal length.",
+                "p equal to one by f equation 2. 6",
+                "The SI unit of ^of a lens is dioptre. It is represented by the symbol D. If focal length is expressed in ‘m’, then the ^of lens is expressed in ‘D’ Thus 1D is the ^of a lens, whose focal length is 1metre. 1D = 1metre^ - 1.",
+                "By convention, the ^of a convex lens is taken as positive whereas the ^of a concave lens is taken, as negative.",
+                "More to Know",
+                "The lens formula and lens maker’s formula are applicable to only thin lenses. In the case of thick lenses, these formulae with little modifications are used.",
+                "Table2. 1Differences between a Convex Lens and a Concave Lens",
+                "Serial number",
+                "Convex Lens",
+                "Concave Lens",
+                "A convex lens is thicker in the middle than at edges.",
+                "A concave lens is thinner in the middle than at edges.",
+                "It is a converging lens.",
+                "It is a diverging lens.",
+                "It produces mostly real images.",
+                "It produces virtual images.",
+                "It is used to treat hypermetropia.",
+                "It is used to treat myopia."
+            ],
+            "topic_number": "2.15"
+        },
+        {
+            "topic_title": "2. 16 HUMAN EYE",
+            "content": [
+                "The human eyes are most valuable and sensitive organs responsible for vision. They are the gateway to the wonderful world.",
+                "Structure of the eye",
+                "The eye ball is approximately spherical in shape with a diameter of about 2. 3 cm. It consists of a tough membrane called sclera, which protects the internal parts of the eye. Important parts of human eye are",
+                "Cornea: This is the thin and transparent layer on the front surface of the eyeball as shown in figure 2. 15. It is the main refracting surface. When light enters through the cornea, it refracts or bends the light on to the lens.",
+                "Iris: It is the coloured part of the eye. It may be blue, brown or green in colour. Every person has a unique colour, pattern and texture. Iris controls amount of light entering into the pupil like camera aperture.",
+                "Pupil: It is the centre part of the Iris. It is the pathway for the light to retina.",
+                "Retina: This is the back surface of the eye. It is the most sensitive part of human eye, on which real and inverted image of objects is formed.",
+                "Eye Lens –It is the important part of human eye. It is convex in nature.",
+                "Ciliary muscles –Eye lens is fixed between the ciliary muscles. It helps to change the focal length of the eye lens according to the position of the object.",
+                "Working of the eye",
+                "The transparent layer cornea bends the light rays through pupil located at the centre part of the Iris. The adjusted light passes through the eye lens. Eye lens is convex in nature. So, the light rays from the objects are converged and a real and inverted image is formed on retina. Then, retina passes the received real and inverted image to the brain through optical nerves. Finally, the brain senses it as erects image.",
+                "^of Accommodation",
+                "The ability of the eye lens to focus nearby as well as the distant objects is called ^of accommodation of the eye. This is achieved by changing the focal length of the eye lens with the help of ciliary muscles. Eye lens is made of a flexible, jelly - like material. By relaxing and contracting the ciliary muscle, the curvature and hence the call length of the eye lens can be altered. When we see distant objects, the ciliary muscle relaxes and makes the eye lens thinner. This increases the focal length of the eye lens. Hence, the distant object can be clearly seen. On the other hand, when we look at a closer object, the focal length of the eye lens is decreased by the contraction of ciliary muscle. Thus, the image of the closer object is clearly formed on the retina.",
+                "Persistence of vision",
+                "If the time interval between two consecutive light pulses is less than 1 by 16 second, human eye cannot distinguish them separately. It is called persistence of vision.",
+                "The far point and near point of the human eye",
+                "The minimum distance required to see the objects distinctly without strain is called least distance of distinct vision. It is called as near point of eye. It is 25 cm for normal human eye.",
+                "The maximum distance up to which the eye can see objects clearly is called as far point of the eye. It is infinity for normal eye."
+            ],
+            "topic_number": "2.16"
+        },
+        {
+            "topic_title": "2. 17 DEFECTS IN EYE",
+            "content": [
+                "A normal human eye can clearly see all the objects placed between 25cm and infinity. But, for some people, the eye loses its ^of accommodation. This could happen due to many reasons including ageing. Hence, their vision becomes defective. Let us discuss some of the common defects of human eye.",
+                "Myopia, also known as short sightedness, occurs due to the lengthening of eye ball. With this defect, nearby objects can be seen clearly but distant objects cannot be seen clearly. The focal length of eye lens is reduced or the distance between eye lens and retina increases. Hence, the far point will not be infinity for such eyes and the far point has come closer. Due to this, the image of distant objects is formed before the retina (Figure 2. 16 - a). This defect can be corrected using a concave lens (Figure 2. 16 - b). The focal length of the concave lens to be used is computed as follows:",
+                "Let a person with myopia eye can see up to a distance x. Suppose that he wants to see all objects farther than this distance, that is up to infinity. Then the focal length of the required concave lens is",
+                "f = - x. If the person can see up to a distance x and he wishes to see up to a distance y, then, the focal length of the required concave lens is, x × y by x - y equation 2. 7",
+                "Hypermetropia",
+                "Hypermetropia, also known as long sightedness, occurs due to the shortening of eye ball. With this defect, distant objects can be seen clearly but nearby objects cannot be seen clearly. The focal length of eye lens is increased or the distance between eye lens and retina decreases. Hence, the near point will not be at 25cm for such eyes and the near point has moved farther. Due to this, the image of nearby objects is formed behind the retina (Figure 2. 17 - a). This defect can be corrected using a convex lens (Figure 2. 17 - b). The focal length of the convex lens to be used is computed as follows:",
+                "Let a person with hypermetropia eye can see object beyond a distance d. Suppose that he wants to see all objects closer than this distance up to a distance D. Then, the focal length of the required convex lens isf equal to d × D by d - D. equation 2. 8",
+                "Due to ageing, ciliary muscles become weak and the eye - lens become rigid (inflexible) and so the eye loses its ^of accommodation.",
+                "Because of this, an aged person cannot see the nearby objects clearly. So, it is also called as ‘old age hypermetropia’.",
+                "Some persons may have both the defects of vision - myopia as well as hypermetropia. This can be corrected by ‘bifocal lenses’ in which, upper part consists of concave lens (to correct myopia) used for distant vision and the lower part consists of convex lens (to correct hypermetropia) used for reading purposes.",
+                "Astigmatism",
+                "In this defect, eye cannot see parallel and horizontal lines clearly. It may be inherited or acquired. It is due to the imperfect structure of eye lens because of the development of cataract on the lens, ulceration of cornea, injury to the refracting surfaces, etc. . Astigmatism can be corrected by using cylindrical lenses."
+            ],
+            "topic_number": "2.17"
+        },
+        {
+            "topic_title": "2. 18 MICROSCOPE",
+            "content": [
+                "This is an optical instrument, which helps us to see tiny (very small) objects. It is classified as",
+                "1. Simple microscope",
+                "2. Compound microscope",
+                "Simple Microscope",
+                "Simple microscope has a convex lens of short focal length. It is held near the eye to get enlarged image of small object Let an object (A B) is placed at a point within the principal focus (u less than f) of the convex lens and the observer’s eye is placed just behind the lens.",
+                "As per this position the convex lens produces an erect, virtual and enlarged image A — b —. The image formed is in the same side of the object and the distance equal to the least distance of distinct vision (D) (For normal human eye D = 25 cm).",
+                "Uses of Simple microscope",
+                "Simple microscopes are used",
+                "a) by watch repairers and jewellers.",
+                "b) to read small letters clearly.",
+                "c) to observe parts of flower, insects etc.",
+                "d) to observe finger prints in the field of forensic science.",
+                "Compound microscope",
+                "Compound microscope is also used to see the tiny objects. It has better magnification ^than simple microscope. Magnification ^of microscopes can be increased by decreasing the focal length of the lens used. Due to constructional limitations, the focal length of the lens cannot be decreased beyond certain limit. This problem can be solved by using two separate biconvex lenses.",
+                "Construction",
+                "A compound microscope consists of two convex lenses. The lens with the shorter focal length is placed near the object, and is called as ‘objective lens’ or ‘objective piece’. The lens with larger focal length and larger aperture placed near the observer’s eye is called as ‘eye lens’ or ‘eye piece’. Both the lenses are fixed in a narrow tube with adjustable provision.",
+                "The object (AB) is placed at a distance slightly greater than the focal length of objective lens (u > of) u greater than fo. A real, inverted and magnified image (A'B') is formed at the other side of the objective lens.",
+                "This image behaves as the object for the eye lens. The position of the eye lens is adjusted in such a way, that the image (A'B') A — B — falls within the principal focus of the eye piece. This eye piece forms a virtual, enlarged and erect image (A\" B\") A double — B double — on the same side of the object",
+                "Compound microscope has 50 to 200 × more magnification ^than simple microscope",
+                "Travelling Microscope",
+                "A travelling microscope is one of the best instruments for measuring very small length with high degree of accuracy at the order of 0. 01mm. It works based on the principle of vernier. Its least count is 0. 01 mm."
+            ],
+            "topic_number": "2.18"
+        },
+        {
+            "topic_title": "2. 19 TELESCOPE",
+            "content": [
+                "Have you seen the recent lunar eclipse? With our naked eye we can’t visualize the phenomena distinctly. Then, how can we see the distant object in clearer manner? It is possible with telescope.",
+                "Telescope is an optical instrument to see the distant objects. The first telescope was invented by Johann Lippershey in 1608. Galileo made a telescope to observe distant stars. He got the idea, from a spectacle maker who one day observed that the distant weather cock appeared magnified through his lens system fitted in his shop. Galileo observed the satellites of Jupiter and the rings of Saturn through his telescope. Kepler invented Telescope in1611 which was fundamentally similar to the astronomical telescope.",
+                "Types of Telescopes",
+                "According to optical property, it is classified into two groups:",
+                "one) refracting telescope two) reflecting telescope",
+                "In refracting telescope lenses are used. Galilean telescope, Keplerian telescope, Achromatic refractors, are some refracting telescopes.",
+                "In reflecting telescope parabolic mirrors are used Gregorian, Newtonian, Cassegrain telescope are some Reflecting telescopes According to the things which are observed, Astronomical Telescope and Terrestrial Telescopes are the two major types of telescopes.",
+                "Astronomical Telescope",
+                "An astronomical telescope is used to view heavenly bodies like stars, planets galaxies and satellites.",
+                "Terrestrial Telescopes",
+                "The image in an astronomical telescope is inverted. So, it is not suitable for viewing objects on the surface of the Earth. There fore, a terrestrial telescope is used. It provides an erect image. The major difference between astronomical and terrestrial telescope is erecting the final image with respect to the object.",
+                "Advantages of Telescopes",
+                "Elaborate view of the Galaxies, Planets, stars and other heavenly bodies is possible.",
+                "Camera can be attached for taking photograph for the celestial objects.",
+                "Telescope can be viewed even with the low intensity of light.",
+                "Disadvantages",
+                "Frequent maintenances needed.",
+                "It is not easily portable one."
+            ],
+            "topic_number": "2.19"
+        }
+    ],
+    "SOLVED PROBLEMS": [
+        {
+            "topic_title": "SOLVED PROBLEMS",
+            "content": [
+                "Light rays travel from vacuum into a glass whose refractive index is 1. 5. If the angle of incidence is 30°, calculate the angle of refraction inside the glass.",
+                "According to Snell’s law, sin i by sin r equal to mew2 by mew1",
+                "mew 1 sin i equal to mew 2 sin r",
+                "here mew 1 equal to 1point zero, meu two equal to one point five, i equal to 30 degree with",
+                "in bracket 1. 0 into sin 30 degree equal to 1. 5 sin r",
+                "1 into one by two equal to one point five sin r",
+                "sin r equal to one by 2 into one point five equal to 1 by three",
+                "equal to 0. 333",
+                "r equal to sin ^ - one into 0 point 333",
+                "r equal to 19. 45 degree",
+                "A beam of light passing through a diverging lens of focal length 0. 3m appear to be focused at a distance 0. 2m behind the lens. Find the position of the object.",
+                "A person with myopia can see objects placed at a distance of 4m. If he wants to see objects at a distanceof20m, what should be the focal length and ^of the concave lens she must wear?",
+                "Given that x = 4 meter and y = 20 meter.",
+                "Focal length of the correction lens is f = x into y / x - yrefer equation. 2. 7",
+                "f = 4 multiply by 20 / 4 - 20 = 80 / - 16 = - 5 meter",
+                "^of the correction lens = 1 by f = - 1 by 5 = - 0. 2 Diaptor",
+                "For a person with hypermetropia, the near point has moved to 1. 5m. Calculate the focal length of the correction lens in order to make his eyes normal.",
+                "Given that d = 1. 5 meter, D = 25centimeter = 0. 25meter (For a normal eye)",
+                "From equation 2. 8, the focal length of correction lens is",
+                "f = d in to D / d - D = 1. 5 multiplied by 0. 25 / 1. 5 - 0. 25 = 0. 375 / 1. 25 = 0. 3 meter."
+            ]
+        }
+    ]
+}

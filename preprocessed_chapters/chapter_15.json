@@ -1,0 +1,327 @@
+{
+    "chapter_number": 15,
+    "chapter_title": "UNIT 15NERVOUS SYSTEM - Introduction",
+    "TOPIC WISE SECTIONS": [
+        {
+            "topic_title": "15. 1 Nervous System",
+            "content": [
+                "The nervous system is made up of nervous tissues. It is formed of three distinct components namely the neurons, neuroglia and nerve fibres.",
+                "Neuron or nerve cell: A neuron or nerve cell is the structural and functional unit of the nervous system. It is the longest cell of the human body with a length of over 100 mew m. These cells are highly specialised to detect, receive and transmit different kinds of stimuli. Information is conducted through neurons in the form of electrical impulses from one part of the body to another.",
+                "Neuroglia: Neuroglia are also called as glial cells. They are non - exciting, supporting cell of the nervous system. They do not initiate or conduct nerve impulses.",
+                "Nerve fibres: The nerve fibres are the long slender processes of neurons. A number of nerve fibres are bundled up together to form nerves."
+            ],
+            "topic_number": "15.1"
+        },
+        {
+            "topic_title": "15. 1. 1 Structure of Neuron",
+            "content": [
+                "A neuron typically consists of three basic parts: Cyton, Dendrites and Axon.",
+                "Cyton: Cyton is also called cell body or perikaryon. It has a central nucleus with abundant cytoplasm called neoplasm. The cytoplasm has large granular body called Nissl’s granules and the other cell organelles like mitochondria, ribosomes, lysosomes, and endoplasmic reticulum. Neurons do not have the ability to divide. Several neurofibrils are present in the cytoplasm that help in transmission of nerve impulses to and from the cell body.",
+                "Dendrites: These are the numerous branched cytoplasmic processes that project from the surface of the cell body. They conduct nerve impulses towards the cyton. The branched projections increase the surface area for receiving the signals from other nerve cells.",
+                "Axon: The axon is a single, elongated, slender projection. The end of axon terminates as fine branches which terminate into knob like swellings called synaptic knob. The plasma membrane of axon is called axolemma, while the cytoplasm is called axoplasm. It carries impulses away from the cyton. The axons may be covered by a protective sheath called myelin sheath which is further covered by a layer of Schwann cells called neurilemma. Myelin sheath breaks at intervals by depressions called Nodes of Ranvier. The region between the nodes is called as internode. Myelin sheath acts as insulator and ensures rapid transmission of nerve impulses.",
+                "Synapse: A junction between synaptic knob of axon of one neuron and dendron of next neuron is called synaptic junction. Information from one neuron can pass to another neuron through these junctions with the release of chemicals known as neurotransmitters from the synaptic knob.",
+                "Create a model of a neuron using clay or beads."
+            ],
+            "topic_number": "15.1.1"
+        },
+        {
+            "topic_title": "15. 1. 2 Types of Neurons",
+            "content": [
+                "The neurons may be of different types based on their structure and functions.",
+                "Structurally the neurons may be of the following types:",
+                "Unipolar neurons: Only one nerve process arises from the cyton which acts as both axon and dendron.",
+                "Bipolar neurons: The cyton gives rise to two nerve processes of which one acts as an axon while another as a dendron.",
+                "Multipolar neurons: The cyton gives rise to many dendrons and an axon.",
+                "Unipolar Neurons",
+                "Found in early embryos but not in adult",
+                "Bipolar Neurons",
+                "Found in retina of eye and olfactory epithelium of nasal chambers",
+                "Multipolar Neurons",
+                "Found in cerebral cortex of brain",
+                "On the basis of functions neurons are categorised as: -",
+                "Sensory or afferent neuronswhich carry impulses from the sense organ to the central nervous system.",
+                "Motor or efferent neuronswhich carry impulses from the central nervous system to effector organ such as the muscle fibre or the gland.",
+                "Association neuronsconduct impulses between sensory and motor neurons."
+            ],
+            "topic_number": "15.1.2"
+        },
+        {
+            "topic_title": "15. 1. 3 Types of Nerve Fibres",
+            "content": [
+                "Nerve fibres are of two types based on the presence or absence of myelin sheath.",
+                "Myelinated nerve fibre: The axon is covered with myelin sheath",
+                "Non - myelinated nerve fibre: The axon is not covered by myelin sheath.",
+                "Myelinated and non - myelinated nerve fibres form the white matter and grey matter of the brain."
+            ],
+            "topic_number": "15.1.3"
+        },
+        {
+            "topic_title": "15. 2 Transmission of Nerve Impulse",
+            "content": [
+                "All the information from the environment is detected by the receptors located in our sense organs such as the eyes, the nose, the skin etc. . Information from the receptors is transmitted as electrical impulse and is received by the dendritic tips of the neuron. This impulse travels from the dendrite to the cell body and then along the axon to its terminal end. On reaching the axonal end, it causes the nerve endings to release a chemical (neurotransmitter) which diffuses across a synapse and starts a similar electrical impulse in the dendrites of the next neuron, then to their cell body to be carried along the axon.",
+                "In this way, the electrical signal reaches the brain or spinal cord. The response from brain (or spinal cord) is similarly passed on to the effector organs such as the muscle or gland cell, that undergoes the desired response.",
+                "The flow of nerve impulses from axonal end of one neuron to dendrite of another neuron through a synapse is called synaptic transmission.",
+                "Do You Know?",
+                "Each neuron can transmit 1, 000 nerve impulses per second and make as many as ten thousand of synaptic contacts with other neurons."
+            ],
+            "topic_number": "15.2"
+        },
+        {
+            "topic_title": "15. 2. 1 Neurotransmitters",
+            "content": [
+                "Neurotransmitters are the chemicals which allow the transmission of nerve impulse from the axon terminal of one neuron to the dendron of another neuron or to an effector organ. The important neurotransmitter released by neurons is called Acetylcholine."
+            ],
+            "topic_number": "15.2.1"
+        },
+        {
+            "topic_title": "15. 3 Human Nervous System",
+            "content": [
+                "The complexity of nervous system can be observed during the course of evolution. We the human beings differ from other animals in our ability to think and take actions, which is due to the well - developed nervous system. Human nervous system is differentiated into central nervous system (CNS), peripheral nervous system (PN S) and autonomic nervous system (A N S).",
+                "The CNS acts as centre for information processing and control. It consists of the brain and the spinal cord. The PN S is made up of the nerves which connect the brain and spinal cord to all parts of the body. The A N S is formed of sympathetic and parasympathetic nerves."
+            ],
+            "topic_number": "15.3"
+        },
+        {
+            "topic_title": "15. 3. 1 Central Nervous System",
+            "content": [
+                "The brain and the spinal cord being delicate vital structures are well protected in bony cavities of the skull and the vertebral column respectively. CNS is formed of two types of matter such as white matter or grey matter with respect to the presence or absence of myelin sheath which we have discussed earlier.",
+                "Figure 15. 4 Meninges of brain",
+                "The brain is the controlling centre of all the body activities. It is covered by three connectives",
+                "tissue membrane or meninges:",
+                "Durometer(dura: tough; mater: membrane) is the outermost thick fibrous membrane",
+                "Arachnoid membrane(arachnoid: spider) is the middle, thin vascular membrane providing web like cushion",
+                "Piamater(Pia: soft or tender) is the innermost, thin delicate membrane richly supplied with blood.",
+                "Meningeal membranes protect the brain from mechanical injury.",
+                "Do You Know?",
+                "Meningitis is an inflammation of the meninges. It can occur when fluid surrounding the meninges becomes infected. The most common causes of meningitis are viral and bacterial infections.",
+                "A human brain is formed of three main parts: (a) forebrain (b) midbrain and (c) hindbrain.",
+                "Forebrain: The forebrain is formed of cerebrum and diencephalon. The latter consists of dorsal thalamus and ventral hypothalamus.",
+                "It is the largest portion forming nearly two - third of the brain. The cerebrum is longitudinally divided into two halves as right and left cerebral hemispheres by a deep cleft called median cleft. Two cerebral hemispheres are interconnected by thick band of nerve fibres called corpus callosum. The outer portion of each cerebral hemisphere is formed of grey matter and is called cerebral cortex. The inner or deeper part is formed of white matter and is called cerebral medulla. The cortex is extremely folded forming elevations called gyri with depressions between them termed as sulci that increase its surface area.",
+                "Each cerebral hemisphere is divisible into a frontal lobe, a parietal lobe, a temporal lobe and an occipital lobe. These lobes are also known as cerebral lobes and are associated with specific functions. Any damage in specific lobe intern affects its function.",
+                "The cerebrum is responsible for the thinking, intelligence, consciousness, memory, imagination, reasoning and willpower.",
+                "Thalamus present in cerebral medulla is a major conducting centre for sensory and motor signalling. It acts as a relay centre.",
+                "Hypothalamus",
+                "It lies at the base of the thalamus. It controls involuntary functions like hunger, thirst, sleep, sweating, sexual desire, anger, fear, water balance, blood pressure etc. . It acts as a thermoregulatory (temperature control) center of the body. It controls the secretion of hormones from anterior pituitary gland and is an important link between nervous system and endocrine system.",
+                "It is located between thalamus and hind brain. The dorsal portion of the mid brain consists of four rounded bodies called corpora quadrigemina that control visual and auditory (hearing) reflexes.",
+                "It is formed of three parts cerebellum, pons and medulla oblongata.",
+                "Do You Know?",
+                "That human brain constitutes nearly 60 percent of fat. The most crucial molecules that determine our brain’s integrity and the ability are Essential Fatty Acids (EFA s). EFA s cannot be synthesised and must be obtained from food. Fish, green leafy vegetables, almond, walnut are rich sources of EFA s.",
+                "It is second largest part of the brain formed of two large sized hemispheres and middle vermis. It coordinates voluntary movements and also maintains body balance.",
+                "‘Pons’ a Latin word meaning bridge. It is a bridge of nerve fibre that connects the lobes of cerebellum. It relays signals between the cerebellum, spinal cord, midbrain and cerebrum. It controls respiration and sleep cycle.",
+                "Medulla Oblongata",
+                "Medulla oblongata is the posterior most part of the brain that connects spinal cord and various parts of brain. It has cardiac centres, respiratory centres, vasomotor centres to control heartbeat, respiration and contractions of blood vessels respectively. It also regulates vomiting and salivation.",
+                "Table 15. 1 Overview of brain functions",
+                "Cerebral cortex",
+                "Sensory perception, control of voluntaryfunctions, language, thinking, memory, decision making, creativity",
+                "Acts as relay station",
+                "Hypothalamus",
+                "Temperature control, thirst, hunger, urination, important link between nervous system and endocrine glands",
+                "Maintenance of posture and balance, coordinatevoluntary muscle activity",
+                "Pons andmedulla",
+                "Role in sleep - awake cycle, cardiovascular, respiratoryand digestive control centers",
+                "More to Know",
+                "Electroencephalogram (E E G) is an instrument which records the electrical impulses of brain.",
+                "An E E G can detect abnormalities in the brain waves and help in diagnoses of seizures, epilepsy, brain tumours, head injuries, etc. .",
+                "Spinal Cord",
+                "Spinal cord is a cylindrical structure lying in the neural canal of the vertebral column. It is also covered by meninges. It extends from the lower end of medulla oblongata to the first lumbar vertebra. The posterior most region of spinal cord tapers into a thin fibrous thread like structure called filum terminal.",
+                "Internally, the spinal cord contains a cerebrospinal fluid filled cavity known as the central canal. The grey matter of spinal cord is ‘H’ shaped. The upper end of letter ‘H” forms posterior horns and lower end forms anterior horns. A bundle of fibres passes into the posterior horn forming dorsal or afferent root. Fibres pass outward from the anterior horn forming ventral or efferent root. These tworoots join to form spinal nerves. The white matter is external and have bundle of nerve tracts. Spinal cord conducts sensory and motor impulses to and from the brain. It controls reflex actions of the body."
+            ],
+            "topic_number": "15.3.1"
+        },
+        {
+            "topic_title": "15. 4 Cerebrospinal Fluid",
+            "content": [
+                "The brain is suspended in a special fluid environment called cerebrospinal fluid (CSF). It is lymph like, watery fluid that surrounds and protects the brain within the skull. It also fills the central canal of the spinal cord.",
+                "It acts as shock absorbing fluid and protects the brain from damage when it is subjected to sudden jerk.",
+                "It supplies nutrients to the brain.",
+                "It collects and removes wastes from the brain.",
+                "It is also responsible for maintaining a constant pressure inside the cranium."
+            ],
+            "topic_number": "15.4"
+        },
+        {
+            "topic_title": "15. 5 Reflex Action",
+            "content": [
+                "A reflex is any response that occurs automatically without consciousness. There are two types of reflexes.",
+                "Simple or basic reflexes: These reflexes are inbuilt and unlearned responses. Many of the actions we perform in our day - to - day life are simple reflexes. e. g. , winking of eyes when any dust particles enter, sneezing, coughing, yawning, etc. We perform these actions without thinking.",
+                "Acquired or conditioned reflexes: Thesereflexes are the result of practice and learning. Playing harmonium by striking a particular key on seeing a music note is an example of conditioned reflexes which required conscious training effort. Can you think of some more examples of conditioned reflexes?",
+                "Most of the reflex actions are monitored and controlled by the spinal cord, hence also known as spinal reflexes.",
+                "The pathway taken by nerve impulse to accomplish reflex action is called reflex arc. Now, let us understand how the body executes reflex action when we touch a hot plate.",
+                "When we touch a very hot pan, the stimulus is the heat which is sensed by receptor called as heat receptors or thermoreceptors in our hand. This stimulus (heat) intern triggers an impulse in sensory neuron.",
+                "The sensory neuron transmits or conveys the message to the spinal cord.",
+                "Spinal cord interprets the stimulus, and the impulse is passed on to the relay neuron which intern transmits it to a motor neuron.",
+                "Motor neurons carry command from spinal cord to our arm.",
+                "Muscle in our arm contracts and we withdraw our hand immediately from the pan.",
+                "In this example, muscle is an effector organ which has responded to the heat. You will study in higher classes how the neuronal impulse triggers the muscular movement."
+            ],
+            "topic_number": "15.5"
+        },
+        {
+            "topic_title": "15. 6 Peripheral Nervous System",
+            "content": [
+                "Peripheral nervous system is formed by the nerves arising from the brain and the spinal cord. The nerves arising from the brain are called cranial nerves. Nerves arising from spinal cord are called spinal nerves.",
+                "You must say the colour of the word but not the name of the word.",
+                "Cranial Nerves",
+                "In man, there are 12 pairs of cranial nerves. Some of the cranial nerves are sensory example optic nerve which innervates the eye. Some are motor nerves which helps in rotation of eyeball. It also innervates the eye muscles, muscles of iris and tear gland.",
+                "Spinal Nerves",
+                "There are 31 pairs of spinal nerves. Each spinal nerve has a dorsal sensory root and the ventral motor root. The direction of impulses in dorsal spinal root is towards the spinal cord and in ventral spinal root away from the spinal cord."
+            ],
+            "topic_number": "15.6"
+        },
+        {
+            "topic_title": "15. 7 Autonomic Nervous System",
+            "content": [
+                "Autonomic nervous system (A N S) is also called as visceral nervous system as it regulates the function of internal visceral organs of our body through its two antagonistic (opposite) components sympathetic and parasympathetic systems. They enable the body to perform rapid and specific visceral activities in order to maintain steady state. It controls the involuntary functions of the visceral organs.",
+                "Figure. 15. 8 Sympathetic and Parasympathetic nervous system"
+            ],
+            "topic_number": "15.7"
+        },
+        {
+            "topic_title": "1 Choose the correct answer",
+            "content": [
+                "Bipolar neurons are found in",
+                "Retina of eye",
+                "cerebral cortex",
+                "respiratory epithelium",
+                "Site for processing of vision, hearing, memory, speech, intelligence and thought is",
+                "In reflex action, the reflex arc is formed by",
+                "brain, spinal cord, muscle",
+                "receptor, muscle, spinal cord",
+                "muscle, receptor, brain",
+                "receptor, spinal cord, muscle",
+                "Dendrites transmit impulse — cell body and axon transmit impulse — cell body.",
+                "away from, away from",
+                "towards, away from",
+                "towards, towards",
+                "away from, towards",
+                "The outer most of the three cranial meninges is",
+                "arachnoid membrane",
+                "myelin sheath",
+                "There are — pairs of cranial nerves and — pairs of spinal nerves.",
+                "The neurons which carry impulse from the central nervous system to the muscle fibre.",
+                "afferent neurons",
+                "association neuron",
+                "efferent neuron",
+                "unipolar neuron",
+                "Which nervous band connects the two cerebral hemispheres of brain?",
+                "Hypothalamus",
+                "corpus callosum",
+                "Node of Ranvier is found in",
+                "Vomiting centre is located in",
+                "medulla oblongata",
+                "hypothalamus",
+                "Nerve cells do not possess",
+                "A person who met with an accident lost control of body temperature, water balance, and hunger. Which of the following part of brain is supposed to be damaged?",
+                "Medulla oblongata",
+                "hypothalamus"
+            ],
+            "topic_number": "1"
+        },
+        {
+            "topic_title": "2 Fill in the blanks",
+            "content": [
+                "— is the longest cell in our body.",
+                "Impulses travels rapidly in — neurons.",
+                "A change in the environment that causes an animal to react is called —.",
+                "— carries the impulse towards the cell body.",
+                "The two antagonistic components of autonomic nervous system are — and —.",
+                "A neuron contains all cell organelles except —.",
+                "— maintains the constant pressure inside the cranium.",
+                "— and — increase the surface area of cerebrum.",
+                "The part of human brain which acts as relay center is —"
+            ],
+            "topic_number": "2"
+        },
+        {
+            "topic_title": "3 State whether true or false, if false write the correct statement",
+            "content": [
+                "Dendrons are the longest fibres that conducts impulses away from the cell body.",
+                "Sympathetic nervous system is a part of central nervous system.",
+                "Hypothalamus is the thermoregulatory centre of human body.",
+                "Cerebrum controls the voluntary actions of our body.",
+                "In the central nervous system myelinated fibres form the white matter.",
+                "All the nerves in the body are covered and protected by meninges.",
+                "Cerebrospinal fluid provides nutrition to brain.",
+                "Reflex arc allows the rapid response of the body to a stimulus.",
+                "Pons helps in regulating respiration."
+            ],
+            "topic_number": "3"
+        },
+        {
+            "topic_title": "4 Match the following",
+            "content": [
+                "A. Nissl’s granules",
+                "B. Hypothalamus",
+                "Peripheral Nervoussystem",
+                "C. Cerebellum",
+                "D. Schwann cell"
+            ],
+            "topic_number": "4"
+        },
+        {
+            "topic_title": "5. Understand the assertion statement. Justify the reason given and choose the correct choice",
+            "content": [
+                "a). Assertion is correct, and reason is wrong",
+                "b). Reason is correct, and the assertion is wrong",
+                "c). Both assertion and reason are correct",
+                "d). Both assertion and reason are wrong",
+                "Assertion: Cerebrospinal fluid is present throughout the central nervous system.",
+                "Reason: Cerebrospinal fluid has no such functions.",
+                "Assertion: Corpus callosum is present in space between the durometer and piamater.",
+                "Reason: It serves to maintain the constant intracranial pressure."
+            ],
+            "topic_number": "5"
+        },
+        {
+            "topic_title": "6 Short answer questions",
+            "content": [
+                "Define stimulus.",
+                "Name the parts of the hind brain.",
+                "What are the structures involved in the protection of brain?",
+                "Give an example for conditioned reflexes.",
+                "Which acts as a link between the nervous system and endocrine system?",
+                "Define reflex arc."
+            ],
+            "topic_number": "6"
+        },
+        {
+            "topic_title": "7 Differentiate between",
+            "content": [
+                "Voluntary and involuntary actions.",
+                "Medullated and non - medullated nerve fibre."
+            ],
+            "topic_number": "7"
+        },
+        {
+            "topic_title": "8 Long answer questions",
+            "content": [
+                "With a neat labelled diagram explain the structure of a neuron.",
+                "Illustrate the structure and functions of brain.",
+                "What will you do if someone pricks your hand with a needle? Elucidate the pathway of response with a neat labelled diagram.",
+                "Describe the structure of spinal cord.",
+                "How are nerve impulses transferred from one neuron to next neuron?",
+                "Classify neurons based on its structure",
+                "Higher Order Thinking Skills (HOTS)",
+                "1 (‘A’) is a cylindrical structure that begins from the lower end of medulla and extend downwards. It is enclosed in bony cage ‘B’ and covered by membranes ‘C’. As many as ‘D’ pairs of nerves arise from the structure (‘A’).",
+                "(i) What is A? (ii) Name (a) bony cage ‘B’ and (b) membranes ‘C’(iii) How much is D?",
+                "(i) What is A?",
+                "(ii) Name (a) bony cage ‘B’ and (b) membranes ‘C’",
+                "(iii) How much is D?",
+                "Our body contains a large number of cells ‘L’ which are the longest cells in the body. L has long and short branch called as ‘M’ and ‘N’ respectively. There is a gap (‘O’) between two ‘L’ cells, through which nerve impulse transfer by release of chemical substance ‘P’.",
+                "(iv) Name the cells L(v) What are M and N? (vi) What is the gap O? (vii) Name the chemical substance P",
+                "(iv) Name the cells L",
+                "(v) What are M and N?",
+                "(vi) What is the gap O?",
+                "(vii) Name the chemical substance P",
+                "REFERENCE BOOKS",
+                "1. Guyton and Hall, 2003, Textbook of Medical Physiology; Harcourt Indian Private Limited.",
+                "2. Sherwood. L. , 2007, Human Physiology: From cells to systems 6th Edition, Indian edition, Thomson Brooks / Cole.",
+                "3. Singh, H. D. , 2007, Handbook of Basic Human Physiology for Paramedical Students. S. Chand and Company Ltd. New Delhi.",
+                "INTERNET RESOURCES",
+                "1. http: / / www. britannica. com / science / nervous - system",
+                "2. http: / / www. sumanasine. com / webcontent / animations / neurobiology. html"
+            ],
+            "topic_number": "8"
+        }
+    ]
+}

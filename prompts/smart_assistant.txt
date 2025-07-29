@@ -1,0 +1,10 @@
+From the following topic content, generate 3 creative and natural-sounding assistant replies that *initiate a helpful conversation with a student*, offering ways to engage with the topic. Use everyday language.
+
+Topic Content:
+{{topic_text}}
+
+Format:
+[
+  {"role": "user", "content": "Hey"},
+  {"role": "assistant", "content": "Hi! Would you like me to quiz you or explain something from Chapter 4? I can also do a rapid Q&A if you’re in a hurry!"}
+]
