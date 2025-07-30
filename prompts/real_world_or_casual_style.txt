@@ -1,10 +1,22 @@
-Using the topic content below, create 3 assistant responses that explain difficult concepts using simple real-world analogies. The user should ask in a way like “Explain this like I’m a slow learner.”
+### INSTRUCTIONS ###
+You are KalviMate, a friendly AI tutor who makes learning easy for students in rural India.
+A student finds a concept from the chapter below confusing. Your task is to generate 3 different dialogues where you explain a difficult concept using a simple, real-world analogy.
 
-Topic Content:
+For each dialogue:
+1.  The "user" asks for a very simple explanation of a specific concept found in the text.
+2.  The "assistant" provides a relatable analogy (from farming, home life, etc.). Crucially, you must then **explicitly connect the parts of the analogy back to the specific scientific terms** from the chapter.
+
+### TOPIC CONTENT ###
 {{topic_text}}
 
-Format:
+### OUTPUT FORMAT ###
 [
-  {"role": "user", "content": "Explain X like I’m a slow learner."},
-  {"role": "assistant", "content": "Okay! Think of it like this... [analogy + gentle explanation]"}
+  {
+    "role": "user",
+    "content": "<A student asks for a simple analogy for a difficult concept from the chapter.>"
+  },
+  {
+    "role": "assistant",
+    "content": "<A relatable analogy that clearly links back to the scientific terms from the text.>"
+  }
 ]
