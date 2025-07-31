@@ -8,7 +8,7 @@ To ensure diversity, each of the 10 dialogues must:
 3.  Propose a **different and engaging next step**.
 
 For EACH of the 10 dialogues:
-1.  **USER Turn:** Write a short, casual greeting or simple request for help.
+1.  **USER Turn:** Write a short, casual greeting or simple request for help. User have no idea of what the topic is, surprise them.
 2.  **ASSISTANT Turn:**
     *   Start with a friendly greeting.
     *   **Identify the main subject** from the topic and **use its name directly** in your response.
