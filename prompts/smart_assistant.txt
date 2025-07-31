@@ -7,9 +7,6 @@ Each starter should:
 - Refer to a **specific, interesting detail, example, or term found in the chapter content** to make the student curious.
 - Offer a clear next step, like explaining the concept, trying a question, or connecting it to daily life.
 
-### TOPIC CONTENT ###
-{{topic_text}}
-
 ### OUTPUT FORMAT ###
 [
   {
@@ -29,3 +26,6 @@ Each starter should:
     "content": "<A different proactive starter, referencing another detail from the chapter.>"
   }
 ]
+
+### TOPIC CONTENT ###
+{{topic_text}}

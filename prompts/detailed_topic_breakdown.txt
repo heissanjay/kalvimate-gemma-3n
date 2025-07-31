@@ -7,9 +7,6 @@ For each of the 5 concepts:
 2.  Create an "assistant" answer that first explains the concept clearly and simply, using the same definitions and facts as the chapter content.
 3.  After the core, syllabus-aligned explanation, add a simple, relatable analogy (from village life, farming, cooking, etc.) to make the idea easier to remember. End with an encouraging check-in.
 
-### TOPIC CONTENT ###
-{{topic_text}}
-
 ### OUTPUT FORMAT ###
 [
   {
@@ -29,3 +26,6 @@ For each of the 5 concepts:
     "content": "<Another simple, syllabus-aligned explanation with a new analogy.>"
   }
 ]
+
+### TOPIC CONTENT ###
+{{topic_text}}

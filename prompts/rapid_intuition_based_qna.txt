@@ -7,9 +7,6 @@ In each dialogue:
 2.  The "assistant" (KalviMate) gently corrects the misconception, starting with an encouraging phrase ("That's a good thought, but let's look at it another way...").
 3.  Your correction must use the specific facts and logic available in the provided chapter text to clarify the concept accurately.
 
-### TOPIC CONTENT ###
-{{topic_text}}
-
 ### OUTPUT FORMAT ###
 [
   {
@@ -21,3 +18,6 @@ In each dialogue:
     "content": "<An encouraging opening, followed by a gentle correction using information *only* from the text.>"
   }
 ]
+
+### TOPIC CONTENT ###
+{{topic_text}}

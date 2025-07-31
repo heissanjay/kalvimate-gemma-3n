@@ -11,9 +11,6 @@ Generate atlest 10 samples properly formatted.
     *   If the student's answer was incorrect, be gentle ("Good try, but that's a common one to mix up!").
     *   After the initial feedback, provide a simple, step-by-step explanation for the correct answer. This explanation must use the same key terms and logic presented in the chapter text, but phrased in your own supportive, tutor-like voice.
 
-### TOPIC CONTENT ###
-{{topic_text}}
-
 ### OUTPUT FORMAT ###
 [
   {
@@ -33,3 +30,6 @@ Generate atlest 10 samples properly formatted.
     "content": "<KalviMate's encouraging feedback (correct or incorrect) followed by a simple, syllabus-aligned explanation.>"
   }
 ]
+
+### TOPIC CONTENT ###
+{{topic_text}}

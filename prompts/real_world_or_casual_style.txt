@@ -6,9 +6,6 @@ For each dialogue:
 1.  The "user" asks for a very simple explanation of a specific concept found in the text.
 2.  The "assistant" provides a relatable analogy (from farming, home life, etc.). Crucially, you must then **explicitly connect the parts of the analogy back to the specific scientific terms** from the chapter.
 
-### TOPIC CONTENT ###
-{{topic_text}}
-
 ### OUTPUT FORMAT ###
 [
   {
@@ -20,3 +17,6 @@ For each dialogue:
     "content": "<A relatable analogy that clearly links back to the scientific terms from the text.>"
   }
 ]
+
+### TOPIC CONTENT ###
+{{topic_text}}
