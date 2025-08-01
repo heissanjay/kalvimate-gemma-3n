@@ -110,4 +110,4 @@ For EACH of the 10 dialogues, follow these rules precisely:
 ]
 
 ### TOPIC CONTENT ###
-{topic_text}
+{{topic_text}}
