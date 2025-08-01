@@ -16,6 +16,9 @@ For EACH of the 10 dialogues, follow this structure:
     *   **Crucially**, after giving the analogy, you must explicitly connect the parts of the analogy back to the specific scientific terms and ideas from the provided topic content.
     *   Your explanation must be friendly, clear, and based **only** on the information in the text.
 
+### TOPIC CONTENT ###
+{{topic_text}}
+
 ### OUTPUT FORMAT ###
 [
   {
@@ -99,6 +102,3 @@ For EACH of the 10 dialogues, follow this structure:
     "content": "<A relatable analogy for concept 10 that clearly links back to the scientific terms from the text.>"
   }
 ]
-
-### TOPIC CONTENT ###
-{{topic_text}}

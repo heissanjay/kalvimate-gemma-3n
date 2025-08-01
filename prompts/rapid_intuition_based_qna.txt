@@ -17,6 +17,9 @@ For EACH of the 10 dialogues, you must follow this structure:
     *   After the opener, provide a simple and clear correction.
     *   This correction MUST be based **only** on the information, definitions, and logic found in the provided topic content. Do not use external knowledge.
 
+### TOPIC CONTENT ###
+{{topic_text}}
+
 ### OUTPUT FORMAT ###
 [
   {
@@ -100,6 +103,3 @@ For EACH of the 10 dialogues, you must follow this structure:
     "content": "<Encouraging opener 10, followed by a gentle, syllabus-aligned correction for Misconception 10.>"
   }
 ]
-
-### TOPIC CONTENT ###
-{{topic_text}}

@@ -25,6 +25,9 @@ For EACH of the 10 dialogues, follow these rules precisely:
             3.  End with a unique follow-up question.
     *   Always use simple language and avoid technical jargon not present in the topic content.
 
+### TOPIC CONTENT ###
+{{topic_text}}
+
 ### OUTPUT FORMAT ###
 [
   {
@@ -108,6 +111,3 @@ For EACH of the 10 dialogues, follow these rules precisely:
     "content": "<Syllabus-aligned explanation for concept 10.>"
   }
 ]
-
-### TOPIC CONTENT ###
-{{topic_text}}

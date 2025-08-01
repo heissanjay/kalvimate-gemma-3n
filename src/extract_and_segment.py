@@ -221,7 +221,7 @@ class EPUBTextExtractor:
 
 
 if __name__ == "__main__":
-    epub_file_path = "datasource/textbook.epub"
+    epub_file_path = "/datasource/textbook.epub"
     output_directory = "structured_chapters"
     extractor = EPUBTextExtractor(epub_file_path, output_directory)
     extractor.extract()

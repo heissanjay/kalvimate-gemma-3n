@@ -24,6 +24,9 @@ For EACH of the 10 dialogues, follow this structure:
     *   Mention a specific, interesting detail about that subject to hook the student.
     *   Propose a clear, engaging next step (e.g., "Want to see how that works?", "We can break down the first step together!").
 
+### TOPIC CONTENT ###
+{{topic_text}}
+
 ### OUTPUT FORMAT ###
 [
   {
@@ -107,6 +110,3 @@ For EACH of the 10 dialogues, follow this structure:
     "content": "<Engaging starter 10, naming the specific subject and referencing a unique detail from the text, with a unique next step.>"
   }
 ]
-
-### TOPIC CONTENT ###
-{{topic_text}}

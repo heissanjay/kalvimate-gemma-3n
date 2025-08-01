@@ -36,6 +36,19 @@ class PromptGenerator:
         self.total_topics_processed = 0
         self.total_input_chars = 0
 
+    def _clean_and_prepare_topic_text(self, topic_data):
+        if not topic_data or not isinstance(topic_data, dict):
+            return None
+        topic_title = topic_data.get("topic_title", "N/A").strip()
+        content_list = topic_data.get("content", [])
+        cleaned_content = [
+            line.strip() for line in content_list if line and len(line.strip()) > 15
+        ]
+        if not cleaned_content:
+            return None
+        topic_content_str = "\n".join(cleaned_content)
+        return f"Topic Title: {topic_title}\n\nContent:\n{topic_content_str}"
+
     def generate(self):
         os.makedirs(self.output_base_dir, exist_ok=True)
 
@@ -75,8 +88,12 @@ class PromptGenerator:
                 self.output_base_dir, f"chapter_{chapter_number}"
             )
             os.makedirs(chapter_dir, exist_ok=True)
+            topics_to_process = chapter_data.get("TOPIC WISE SECTIONS", [])
+            for topic in topics_to_process:
+                clean_topic_text = self._clean_and_prepare_topic_text(topic)
+                if not clean_topic_text:
+                    continue
 
-            for topic in chapter_data.get("TOPIC WISE SECTIONS", []):
                 self.total_topics_processed += 1
                 topic_num_raw = topic.get(
                     "topic_number", str(self.total_topics_processed)
@@ -85,16 +102,12 @@ class PromptGenerator:
                 topic_dir = os.path.join(chapter_dir, topic_dir_name)
                 os.makedirs(topic_dir, exist_ok=True)
 
-                topic_title = topic.get("topic_title", "N/A")
-                topic_content = "\n".join(topic.get("content", []))
-                topic_text = f"Topic Title: {topic_title}\n\nContent:\n{topic_content}"
-
                 for prompt_name, prompt_template in prompt_templates.items():
                     if not prompt_template:
                         continue
 
                     user_content = prompt_template.replace(
-                        "{{chapter_text}}", topic_text
+                        "{{topic_text}}", clean_topic_text
                     )
                     self.total_input_chars += len(user_content)
 
@@ -109,7 +122,7 @@ class PromptGenerator:
                     self.total_files_generated += 1
 
         print(
-            f"\nSuccessfully generated {self.total_files_generated} input files from {self.total_topics_processed} topics across {len(chapter_files)} chapters."
+            f"\nSuccessfully generated {self.total_files_generated} input files from {self.total_topics_processed} valid topics across {len(chapter_files)} chapters."
         )
         print(f"Output files are saved in the '{self.output_base_dir}' directory.")
 
