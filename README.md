@@ -83,6 +83,12 @@ Refer readme in the `src/` directory
 - A Hugging Face account and an access token (`Write` permission)
 ---
 
+### Response sample in Tamil
+
+The model adapted the pedagogical style from the english finetuning set that we can see that is closely aligned in tamil response as well.
+
+![Tamil response](./assests/tamil_response_sample.jpg)
+
 ## 🔮 Future Vision & Roadmap
 
 - **Full Tamil Language Support:** The Model adapted the teaching style present in the english dataset well for Tamil as well, although we have plan to generate a parallel dataset in Tamil to make KalviMate more native.
